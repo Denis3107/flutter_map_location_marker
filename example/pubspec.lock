@@ -55,13 +55,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_compass:
-    dependency: transitive
-    description:
-      name: flutter_compass
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.7.0"
   flutter_joystick:
     dependency: "direct main"
     description:
@@ -82,7 +75,14 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "4.1.4"
+    version: "5.0.0+1"
+  flutter_nhan_compass:
+    dependency: transitive
+    description:
+      name: flutter_nhan_compass
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
